@@ -1,0 +1,3 @@
+module Heera.Screen
+
+plugin heerascreen_qmlplugins

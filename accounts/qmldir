@@ -1,0 +1,2 @@
+module Heera.Accounts
+plugin heeraaccounts_qmlplugins

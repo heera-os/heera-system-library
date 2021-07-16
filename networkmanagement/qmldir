@@ -1,0 +1,3 @@
+module Heera.NetworkManagement
+
+plugin heeranm_qmlplugins
